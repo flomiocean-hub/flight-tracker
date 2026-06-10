@@ -1,0 +1,39 @@
+{
+  "updated_at": "2026-06-10",
+  "routes": [
+    {
+      "from": "TPE",
+      "to": "OKA",
+      "date": "2026-07-01",
+      "price": 2990,
+      "airline": "MM",
+      "departure": "07:00",
+      "arrival": "10:25",
+      "link": "https://www.flypeach.com"
+    },
+    {
+      "from": "TPE",
+      "to": "OKA",
+      "date": "2026-07-01",
+      "price": 3200,
+      "airline": "BR",
+      "departure": "08:00",
+      "arrival": "11:30",
+      "link": "https://www.evaair.com"
+    }
+  ],
+  "price_history": [
+    {
+      "date": "2026-06-08",
+      "min_price": 3500
+    },
+    {
+      "date": "2026-06-09",
+      "min_price": 3300
+    },
+    {
+      "date": "2026-06-10",
+      "min_price": 2990
+    }
+  ]
+}
